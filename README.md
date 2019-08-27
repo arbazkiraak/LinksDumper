@@ -9,8 +9,8 @@
 > Dump links from respones,If url is hex/url encoded then decode it,Sort all the results to put the most likeable links at the top & rest junk(html/javascript junk) in the last.
 
  > Why to include junk? why not just links:
-Finding all possible type links is really difficult task,There are many cases where the endpoints are stored in differential structures where they are hard to extract using regex.
-So it's a good practice a take a look around junks to find something interesting.
+* Finding all possible type links is really difficult task,There are many cases where the endpoints are stored in differential structures where they are hard to extract using regex.
+* So it's a good practice a take a look around junks to find something interesting.
 
 # Customize:
 
